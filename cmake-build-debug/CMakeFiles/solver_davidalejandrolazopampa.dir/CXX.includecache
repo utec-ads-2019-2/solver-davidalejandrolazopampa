@@ -6,7 +6,75 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Cal.h
+iostream
+-
+stdlib.h
+-
+string
+-
+math.h
+-
+vector
+-
+stack
+-
+
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Divicion.h
+Cal.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Cal.h
+
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Exponente.h
+Cal.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Cal.h
+
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Multiplicacion.h
+Cal.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Cal.h
+
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Numero.h
+Cal.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Cal.h
+
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Parentesis.h
+Cal.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Cal.h
+
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Resta.h
+Cal.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Cal.h
+
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Suma.h
+Cal.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Cal.h
+
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Variable.h
+Cal.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Cal.h
+
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/arbolcalculos.h
+algorithm
+-
+Calculos/Numero.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Numero.h
+Calculos/Variable.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Variable.h
+Calculos/Suma.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Suma.h
+Calculos/Resta.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Resta.h
+Calculos/Multiplicacion.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Multiplicacion.h
+Calculos/Divicion.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Divicion.h
+Calculos/Exponente.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Exponente.h
+Calculos/Parentesis.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/Calculos/Parentesis.h
+
 C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/main.cpp
 iostream
 -
+arbolcalculos.h
+C:/Users/David Lazo/Documents/GitHub/solver-davidalejandrolazopampa/arbolcalculos.h
 
