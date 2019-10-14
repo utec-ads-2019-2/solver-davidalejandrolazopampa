@@ -19,6 +19,7 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/solver_davidalejandrolazopampa.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/solver_davidalejandrolazopampa.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/solver_davidalejandrolazopampa.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/solver_davidalejandrolazopampa.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/solver_davidalejandrolazopampa.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/solver_davidalejandrolazopampa.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571024834086</updated>
-      <workItem from="1571024838908" duration="6916000" />
+      <workItem from="1571024838908" duration="7794000" />
     </task>
     <servers />
   </component>

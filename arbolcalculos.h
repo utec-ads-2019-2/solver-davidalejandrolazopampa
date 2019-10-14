@@ -57,6 +57,7 @@ public:
                     case '(':{
                         newCal = new Parentisis(string(1, caracter));
                         stackk->push(newCal);
+                        prev = newCal;
                     }
                         break;
                     case ')':{
@@ -67,7 +68,7 @@ public:
                             stackk -> pop();
                             cal = stackk ->top();
                         }
-                        if (cal -> getTipo() == 'C')
+                        if (cal -> getTipo() == '(')
                             stackk -> pop();
                         prev = newCal;
                     }
