@@ -81,7 +81,7 @@ public:
             }
             if(i==Exp.end() -1){
                 if(numeroString != "")
-                    post->push(new Variable(numeroString));
+                    post->push(new Numero(numeroString));
                 getVariable(&letraString);
                 while (!stackk->empty()){
                     post->push(stackk->top());
@@ -145,14 +145,6 @@ public:
         }
     }
 
-    void printPostFix() {
-        while (!post->empty()) {
-            auto aux = post->top();
-            cout << aux->getData() << endl;
-            post->pop();
-        }
-    }
-
     cal *moverOperador( char caracter) {
         cal *newCal = nullptr;
         switch (caracter) {
@@ -184,7 +176,6 @@ public:
         if (aux->empty())
             aux->push(newCal);
         else {
-//          Validate operators precedence
             if (newCal->getpct() > aux->top()->getpct()) {
                 aux->push(newCal);
             } else if (newCal->getpct() < aux->top()->getpct()) {
