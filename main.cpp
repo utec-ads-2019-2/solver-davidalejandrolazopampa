@@ -11,7 +11,7 @@ int main(){
     cin >> ecuacion;
     tree->calculadora(ecuacion);
     cout << tree->evalor() << endl;
-
+    // Variables no está funcionando
     /*
      * Formulas de prueba
     7/4*((3+1)*3)+3
